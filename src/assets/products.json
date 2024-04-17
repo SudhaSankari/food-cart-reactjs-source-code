@@ -1,0 +1,87 @@
+[
+    {
+        "id":89,
+        "name":"veg pizza",
+        "amt":"299",
+        "shop":"Pizza Hut",
+        "ftype":"Pizza",
+        "pic":"/src/assets/pic/pizza.avif",
+        "latest":"No"
+    },
+    
+    {
+        "id":123,
+        "name":"paper roast dosa",
+        "amt":"80",
+        "shop":"sri saivihar",
+        "ftype":"veg",
+        "pic":"/src/assets/pic/dosa.jpg",
+        "latest":"Yes"
+    },
+    {
+        "id":32,
+        "name":"Briyani",
+        "amt":"220",
+        "shop":"rahman",
+        "ftype":"non-veg",
+        "pic":"/src/assets/pic/briyani.avif",
+        "latest":"Yes"
+    },
+    {
+        "id":765,
+        "name":"Naan",
+        "amt":"50",
+        "shop":"Green land",
+        "ftype":"non-veg",
+        "pic":"/src/assets/pic/naan.jpg",
+        "latest":"No" 
+    },
+    {
+        "id":4234,
+        "name":"panner butter masala",
+        "amt":"170",
+        "shop":"Green land",
+        "ftype":"non-veg",
+        "pic":"/src/assets/pic/panner-butter-masala.jpg",
+        "latest":"No" 
+    },
+    {
+        "id":34342,
+        "name":"Chicken noodles",
+        "amt":"220",
+        "shop":"Chilli Restaraunt",
+        "ftype":"non-veg",
+        "pic":"/src/assets/pic/chicken-noodle.jpg",
+        "latest":"Yes" 
+    },
+    {
+        "id":7687,
+        "name":"Egg Fried rice",
+        "amt":"220",
+        "shop":"Asif",
+        "ftype":"non-veg",
+        "pic":"/src/assets/pic/chicken-fried.png",
+        "latest":"Yes" 
+    },
+    {
+        "id":14324,
+        "name":"bowl ice cream",
+        "amt":"220",
+        "shop":"green land",
+        "ftype":"ice cream",
+        "pic":"/src/assets/pic/ice-cream.avif",
+        "latest":"Yes" 
+    },
+    {
+       
+            "id":423,
+            "name":"Chicken burger",
+            "amt":"220",
+            "shop":"Asif",
+            "ftype":"non-veg",
+            "pic":"/src/assets/pic/burger.avif",
+            "latest":"Yes" 
+       
+    }
+    
+]
